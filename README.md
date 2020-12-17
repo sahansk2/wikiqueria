@@ -1,4 +1,6 @@
-# bathula2-pg12-rishic2-sahansk2
+# WikiQueria
+
+CS 225 Group Project by Sahan Kumarasinghe, Prakarsh Gupta, Rishi Choudhary, and Sreekar Bathula 
 
 Final Project Presentation Link: https://youtu.be/SneRr0m7hWo
 
