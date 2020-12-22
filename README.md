@@ -1,12 +1,16 @@
 # WikiQueria
 
-CS 225 Group Project by Sahan Kumarasinghe, Prakarsh Gupta, Rishi Choudhary, and Sreekar Bathula 
-
-Final Project Presentation Link: https://youtu.be/SneRr0m7hWo
-
 # Disclaimer
 
 We assume that you are running on EWS for all of these commands.
+
+If you're on EWS, please run the following command to load the proper environment:
+
+```
+module load llvm/6.0.1
+```
+
+If not, please follow the instructions [here](https://courses.engr.illinois.edu/cs225/fa2020/resources/own-machine/) to set up an environment similar to UIUC's EWS. In particular, you will need `clang++6.0`, `libc++`, `libc++abi`, `graphviz`, and GNU Makefile. 
 
 Throughout, we will refer to Strongly Connected Components as SCCs.
 
@@ -57,11 +61,6 @@ Edge file (TXT) -- vertex IDs are separated by a space, and there is a newline s
 If you would like to create your own fake data to run with this, but don't want to deal with the tediousness, please see the section **Generating Fake Data** to see how you can painlessly create compatible data.
 
 ## Step 2: Building and running the program
-First, be sure to load the necessary environment:
-
-```
-module load llvm/6.0.1
-```
 
 Then, run `make all` to build all binaries:
 
