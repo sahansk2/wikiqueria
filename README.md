@@ -1,5 +1,7 @@
 # WikiQueria
 
+Note: Currently not accepting PRs/further contributions. This notice will be modified when this changes.
+
 # Disclaimer
 
 We assume that you are running on EWS for all of these commands.
